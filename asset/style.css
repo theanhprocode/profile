@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#main {
+
+}
+
+.header {
+    height: 200px;
+    background-color: #515050;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+}
